@@ -88,7 +88,7 @@ A pie chart illustrating Nigeria’s export breakdown highlights the dominance o
 
 The dashboard contains 1 page of report. It was created to provide insights and answer the questions posed during the analysis phase.
 
-![](Data_Visualization.png)
+![](Dashboard.png)
 
 ## Insights and Recommendations
 
